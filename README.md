@@ -1,6 +1,8 @@
-﻿# 拾光
+﻿# 拾光 Shiguang
 
-轻量级图片查看与编辑工具。
+轻量级本地图片查看与编辑工具：浏览、拼图、压缩、标注、批处理，内置 AI 抠图与证件照换背景。
+
+A lightweight offline image viewer & editor: browse, collage, compress, annotate, batch tools, local AI cutout and ID-photo background swap.
 
 ## 功能
 
