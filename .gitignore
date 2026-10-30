@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 打包产物与本地临时目录
+dist/
+build/
+_build*/
+*.spec.bak
+
+# 大模型（不入库，随发布包自带）
+models/
+
+# 运行期标记与日志
+.shiguang_ver
+*.log
+拾光日志/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
